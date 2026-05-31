@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereecrypt",
+        "uuid": 1800778,
+        "checksum": "sr5r5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
